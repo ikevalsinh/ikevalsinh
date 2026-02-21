@@ -1,16 +1,18 @@
-## Hi there 👋
+<h3 style="font-size: 2em;">Just getting started.</h3>
 
-<!--
-**ikevalsinh/ikevalsinh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p style="font-size: 1.5em;">
+Engineering things quietly - building something bigger than it looks.
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h4 style="font-size: 1.7em;">Follow me on:</h4>
+<p>
+  <a href="https://twitter.com/ikevalsinh" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" style="height: 25px; width: 30px;" />
+  </a>
+  <a href="https://linkedin.com/in/ikevalsinh" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" style="height: 25px; width: 30px;" />
+  </a>
+  <a href="https://instagram.com/ikevalsinh" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" style="height: 25px; width: 30px;" />
+  </a>
+</p>
