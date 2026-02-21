@@ -1,7 +1,8 @@
 <h3 style="font-size: 2em;">Just getting started.</h3>
 
 <p style="font-size: 1.5em;">
-Engineering things quietly - building something bigger than it looks.
+Engineering things quietly — building something bigger than it looks.
+Moving step by step, turning small ideas into something powerful.
 </p>
 
 <h4 style="font-size: 1.7em;">Follow me on:</h4>
